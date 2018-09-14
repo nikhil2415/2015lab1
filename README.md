@@ -1,4 +1,5 @@
-# 2015 lab1   nikhil2415
+# 2015lab1
+
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cs109/2015lab1)
 
